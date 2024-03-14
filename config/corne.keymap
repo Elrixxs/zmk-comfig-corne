@@ -37,8 +37,7 @@
    &kp LSHFT  &trans       &trans       &trans       &trans       &trans         &trans   &trans   &trans &trans    &trans &trans
                                     &trans     &trans       &kp SPACE      &kp RET  &trans   &kp RALT
                         >;
-                };
-
+                
                 raise_layer {
 // -----------------------------------------------------------------------------------------
 // |  TAB |  !  |  @  |  #  |  $  |  %  |   |  7  |  8  |  9  |  (  |  )  | BKSP |
